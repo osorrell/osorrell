@@ -1,4 +1,5 @@
-## 👋Hey! I'm a Top-tier AI & Automation Engineer with over 12 years of experience, specialized in delivering Minimum Viable Products (MVPs) powered by Generative AI for SaaS, fintech, and healthcare industries. I am highly skilled at rapidly prototyping and deploying scalable, high-impact AI solutions that drive automation and content generation, from chatbots to personalized financial reports and patient communication tools. Using Python, React, Next.js, LangChain and cloud platforms (AWS, Azure), I’ve built numerous compliant, efficient systems that reduce costs and accelerate time-to-market.
+## 👋 Hello World!
+I'm a Top-tier AI & Automation Engineer with over 12 years of experience, specialized in delivering Minimum Viable Products (MVPs) powered by Generative AI for SaaS, fintech, and healthcare industries. I am highly skilled at rapidly prototyping and deploying scalable, high-impact AI solutions that drive automation and content generation, from chatbots to personalized financial reports and patient communication tools. Using Python, React, Next.js, LangChain and cloud platforms (AWS, Azure), I’ve built numerous compliant, efficient systems that reduce costs and accelerate time-to-market.
 
 ### 🔥 Key Skills
 
