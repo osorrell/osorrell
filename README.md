@@ -1,8 +1,6 @@
-# 👋Hey! 
-I'm a Top-tier AI & Automation Engineer with over 12 years of experience, specialized in delivering Minimum Viable Products (MVPs) powered by Generative AI for SaaS, fintech, and healthcare industries. I am highly skilled at rapidly prototyping and deploying scalable, high-impact AI solutions that drive automation and content generation, from chatbots to personalized financial reports and patient communication tools.
-Using Python, React, Next.js, LangChain and cloud platforms (AWS, Azure), I’ve built numerous compliant, efficient systems that reduce costs and accelerate time-to-market.
+## 👋Hey! I'm a Top-tier AI & Automation Engineer with over 12 years of experience, specialized in delivering Minimum Viable Products (MVPs) powered by Generative AI for SaaS, fintech, and healthcare industries. I am highly skilled at rapidly prototyping and deploying scalable, high-impact AI solutions that drive automation and content generation, from chatbots to personalized financial reports and patient communication tools. Using Python, React, Next.js, LangChain and cloud platforms (AWS, Azure), I’ve built numerous compliant, efficient systems that reduce costs and accelerate time-to-market.
 
-🔥 Key Skills
+### 🔥 Key Skills
 
 💻Generative AI & MVP Development: Python, FastAPI, AI Chatbot, OpenAI, LangChain, Autogen, CrewAI, RAG, ChatGPT, BioBERT, Claude, HuggingFace, Gemini, Replicate, Twilio, Eleven Labs.
 
@@ -16,7 +14,7 @@ Using Python, React, Next.js, LangChain and cloud platforms (AWS, Azure), I’ve
 
 💻Additional Technologies: Flutter, SQL, NoSQL (MongoDB), RESTful APIs, GraphQL, microservices, Supabase and vector databases (Pinecone, Weaviate).
 
-🔥 Highlighted MVP Projects
+### 🔥 Highlighted MVP Projects
 
 🦾 Fintech Payment Gateway: Built a PCI-DSS-compliant MVP with Python / FastAPI, integrating Stripe/PayPal APIs, slashing integration time by 50% and boosting transactions by 20%.
 
